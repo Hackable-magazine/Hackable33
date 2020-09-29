@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h>
+#include <WiFi.h>
 #include <EEPROM.h>
 
 // structure pour stocker les infos
